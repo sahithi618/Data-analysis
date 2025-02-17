@@ -4,11 +4,11 @@
 
 Analyzed customer purchasing behavior during Black Friday sales using data visualization and statistical techniques.
 
-Dataset
+Dataset:
 
 Features: Customer ID, Age, Gender, Purchase Amount, Product Category
 
-Approach
+Approach:
 
 Data Cleaning
 
@@ -22,7 +22,7 @@ Sales trends by age, gender, product category
 
 Identify high-spending customers
 
-Key Insights
+Key Insights:
 
 Males aged 26-35 had the highest purchase volume
 
@@ -35,11 +35,11 @@ Electronics and Apparel were the most purchased categories
 
 Analyzed sugarcane production trends and identified factors affecting yield.
 
-Dataset
+Dataset:
 
 Features: Year, Region, Rainfall, Fertilizer Usage, Yield
 
-Approach
+Approach:
 
 Data Preprocessing
 
@@ -53,7 +53,7 @@ Correlation analysis
 
 Regional production trends
 
-Key Insights
+Key Insights:
 
 Rainfall positively affects sugarcane yield
 
